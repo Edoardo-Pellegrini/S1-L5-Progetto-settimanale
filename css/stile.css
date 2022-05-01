@@ -1,0 +1,210 @@
+/* impostazioni base */
+html {
+    font-size: 100%;
+}
+body {
+    font-size: 1.2rem;
+    font-family: 'Open Sans', sans-serif;
+    color:#393d41 ;
+    line-height: 2rem;
+    
+}
+
+
+body h1 {
+    color: #25a2c3;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold; 
+    line-height: 1.65rem;
+}
+body h2 {
+    color: #25a2c3;
+    font-family:'Montserrat', sans-serif; 
+    font-weight: bold; 
+    line-height: 1.65rem;
+}
+body h3 {
+    color: #25a2c3;
+    font-family:'Montserrat', sans-serif; 
+    font-weight: bold; 
+    line-height: 1.65rem;
+}
+body h4 {
+    color: #25a2c3;
+    font-family:'Montserrat', sans-serif; 
+    font-weight: bold; 
+    line-height: 1.65rem;
+}
+body {
+    text-align: center;
+}
+
+
+
+/* impostazioni header */
+
+
+header {
+    background-color: black;
+    height:auto;
+}
+#pulsante {
+    background-color:#f04c2f;
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    font-weight: bold;
+    border: #dee1e3;
+    width: 150px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    border-radius: 5px;
+    padding: 10px;
+    
+}
+#pulsante a {
+    color: white;
+    text-decoration:none;
+    font-size: 1rem;
+    
+
+    
+}
+
+
+header img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+#titolo {
+    background-image: url(../img/banner.jpg);
+    background-size:cover;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-color: aquamarine;
+
+}
+#titolo h1 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+/* impostazioni main */
+
+#titolino {
+    margin-top: 50px;
+    margin-bottom: 10px;
+
+}
+main h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+ #primaimg img {
+     border-radius: 50%;
+     width: 200px;
+ }
+
+
+
+
+
+
+#testimonianze {
+   background-color:#e22d0e;
+   color: white;
+   margin-top: 50px;
+   padding: 10px;
+   height: auto;
+   margin-bottom: 50px;
+
+}
+#testimonianze h2 {
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 2rem;
+}
+#testimonianze p span {
+    font-style: italic;
+    font-size: 1rem;
+}
+#testimonianze p {
+    margin-bottom: 40px;
+    
+}
+i {
+    font-size: 0.8rem;
+    display: block;
+    
+    
+
+}
+.foto img {
+    
+    
+    margin: 30px ;
+    width: 400px;
+    
+    
+}
+figure.foto {
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* impostazioni footer */
+footer {
+    background-color: #25a2c3;
+    margin-top: 70px;
+    height: auto;
+    padding: 50px;
+}
+footer h2 {
+    color: white;
+    font-size: 2rem;
+    margin-bottom: 40px;
+}
+footer {
+    color: #c8e7f0;
+}
+footer a {
+    color: #c8e7f0;
+}
+
+hr {
+    width: 200px;
+}
+
+address i {
+    font-size: 25px;
+    
+}
+ 
